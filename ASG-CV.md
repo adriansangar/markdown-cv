@@ -1,66 +1,61 @@
-# **Adrián Sánchez García**
+# Adrián Sánchez García  
+**Embedded Software Engineer**
+Email: [adriansangar98@gmail.com](mailto:adriansangar98@gmail.com)  
+Phone: +34 644 33 59 86  
+Location: Dos Hermanas, Seville  
+LinkedIn: [Adrián Sánchez García](https://www.linkedin.com/in/adrián-sánchez-garcía-805b27187)   
 
-I am an Automotive Embedded Software Engineer with 2 years of hands-on experience in designing, developing and optimizing embedded software for electronic control systems. Collaborative team player with expertise in communications protocols. Robust skill set in programming languages such as C and Python.
+## Professional Summary  
+Automotive Embedded Software Engineer with 2+ years of experience designing, developing, and optimizing software for electronic control systems. Proven expertise in creating scalable AUTOSAR-compliant architectures, implementing communication protocols, and automating testing processes with Python. Collaborative team player passionate about delivering robust embedded solutions aligned with industry standards.  
 
-## Work Experience
+## Work Experience  
 
-### EVÓLUTION SYNERGÉTIQUE AUTOMOTIVE, _Seville_
+### **Software Architect**  
+**EVÓLUTION SYNERGÉTIQUE AUTOMOTIVE**, Seville  
+*September 2023 – Present*  
+- Defined and analyzed customer requirements, translating them into technical specifications.
+- Designed software architecture to meet client needs while ensuring scalability and compliance with standards.  
+- Conducted SIL testing using CANoe, validating software functionality and system integration.  
+- Developed Python-based tools to automate repetitive tasks, reducing manual effort by 20%.  
+- Supervised and mentored a team of software engineers.  
 
-**Software Architect**, _September 2023 to Present_
+### **Embedded Software Engineer**  
+**EVÓLUTION SYNERGÉTIQUE AUTOMOTIVE**, Seville  
+*March 2023 – September 2023*  
+- Designed and implemented BSW libraries adhering to AUTOSAR and MISRA guidelines.  
+- Developed MCAL software using Tresos and BSW software using Comasso.  
+- Created Software Detail Design based on system requirements.  
+- Performed unit testing to validate software components and ensure quality.  
 
-- Learn and specify customer’s requirements.
-- Create software architecture that satisfies customer needs.
-- Write down the software specifications.
-- Perform SIL tests with CANoe to ensure the correct functioning of the whole software.
-- Manage software engineers.
-- Develop multiple tools in python to automate some process.
+### **Embedded Software Engineer**  
+**AICIA, University of Seville**, Seville  
+*March 2022 – March 2023*  
+- Designed and implemented an ECU gateway for CAN-to-Ethernet communication using RJ45.  
+- Debugged and optimized embedded software for protocols such as CAN, UDS, and TCP.  
+- Collaborated with cross-functional teams to maintain and enhance embedded systems.  
 
-**Embedded Software Engineer**, _March 2023 to September 2023_
+## Skills  
 
-- Designed and developed BSW librarys according to AUTOSAR and MISRA rules.
-- Develop MCAL software using Tresos tool.
-- Develop BSW software using Comasso tool.
-- Develop Software Detail Design according requirements.
-- Test and develop unit test.
+### **Technical Skills**  
+- **Programming Languages**: C/C++, Python, Java, MATLAB/Simulink
+- **Tools**: CANoe, Git, Enterprise Architect, S32DS, Tresos, Comasso, Ozone, Busmaster  
+- **Communication protocols**: CAN, UDS, TCP/IP, SPI
+- **Standards**: AUTOSAR, ISO 26262, ISO 14229, MISRA  
 
-### AICIA, University of Seville, _Seville_
+### **Management Tools**  
+- Kanban Methodology, Scrum, Agile  
+- Polarion ALM, Helix ALM, Atlassian Tools  
 
-**Embedded Software Engineer**, _March 2022 to March 2023_
+## Education  
 
-- Developed and implemented an ECU gateway from CAN to ETHERNET, using RJ45.
-- Debugged and optimized embedded software using protocolos such as CAN, UDS and TCP.
-- Collaborated with cross-functional teams to develop and maintain embedded software.
+**Degree in Telecommunication Technology Engineering**  
+**University of Seville** (*2017 – 2022*)  
 
-## Skills
+**English Certification (C1)**
+**In Progress**
 
-Technical: `C` `Python` `Matlab/Simulink` `CANoe` `RTOS` `Git` `Enterprise Architect` `S32DS` `Tresos` `Comasso` `Ozone` `Busmaster` 
+**English Certification (B2)**  
+**Trinity College**, 2022
 
-Management: `Kanban Methodology` `Scrum Agile` `Polarion ALM` `Helix ALM` `Atlassian Tools`
-
-Standards: `ISO 26262` `ISO 14229`
-
-## Education
-
-### University of Seville, _2017-2022_
-
-**Degree in Telecommunication Technology Engineering**, _ETSI, Seville_
-
-- Electronics Specialisation
-
-### English, _2022_
-
-**B2 Certificate**,  _Trinity College_
-
----
-
-## Contact
-
-Address: Dos Hermanas, Seville
-
-Email: **[adriansangar98@gmail.com](mailto:adriansangar98@gmail.com)**
-
-Phone: **+34 644 33 59 86**
-
-Linkedin: **[Adrián Sánchez García](https://www.linkedin.com/in/adri%C3%A1n-s%C3%A1nchez-garc%C3%ADa-805b27187/)**
-
-Github: **[adriansangar](https://github.com/adriansangar)**
+**German Certification (A2)**
+**In Progress**
